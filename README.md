@@ -3,7 +3,7 @@
 Last update: 2020-04-30
 
 ## Workflow
-![](workflow.png)
+![](workflow.png?style=centerme)
 
 ## Tools: CYCLOPS
 CYCLOPS reveals human transcriptional rhythms Ron C. Anafi, Lauren J. Francey, John B. Hogenesch, Junhyong Kim Proceedings of the National Academy of Sciences May 2017, 114 (20) 5312-5317; DOI: 10.1073/pnas.1619320114
