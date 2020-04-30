@@ -2,6 +2,9 @@
 
 Last update: 2020-04-30
 
+## Workflow
+![](workflow.png)
+
 ## Tools: CYCLOPS
 CYCLOPS reveals human transcriptional rhythms Ron C. Anafi, Lauren J. Francey, John B. Hogenesch, Junhyong Kim Proceedings of the National Academy of Sciences May 2017, 114 (20) 5312-5317; DOI: 10.1073/pnas.1619320114
 
@@ -16,7 +19,7 @@ CYCLOPS reveals human transcriptional rhythms Ron C. Anafi, Lauren J. Francey, J
 Diurnal transcriptome atlas of a primate across major neural and peripheral tissues
 BY LUDOVIC S. MURE, HIEP D. LE, GIORGIA BENEGIAMO, MAX W. CHANG, LUIS RIOS, NGALLA JILLANI, MAINA NGOTHO, THOMAS KARIUKI, OURIA DKHISSI-BENYAHYA, HOWARD M. COOPER, SATCHIDANANDA PANDA, SCIENCE16 MAR 2018
 
-* **Seed gene list**: Choose a good seed gene list is quite tricky. According to the suggestion from Dr. Anafi: The seed genes are supposed to reflect a "best guess" at the transcripts that will show circadian oscillations in the tissue being sorted. I do think using the seed list from the human data is a good way to go. 
+* **Seed gene list**: Choosing a good seed gene list is quite tricky. According to the suggestion from Dr. Anafi: The seed genes are supposed to reflect a "best guess" at the transcripts that will show circadian oscillations in the tissue being sorted. I do think using the seed list from the human data is a good way to go. 
 * Seed gene list is a two dimentions array with all the seed genes stored at the secondary column **[2:end, 2]**. 
 ## Set parameter
 * **Frac_Var**: Set Number of Dimensions of SVD to maintain this fraction of variance
@@ -28,7 +31,7 @@ BY LUDOVIC S. MURE, HIEP D. LE, GIORGIA BENEGIAMO, MAX W. CHANG, LUIS RIOS, NGAL
 
 ## Output
 * Estimated phases table
-* Cosinor statistics table: 
+* Cosinor statistics table
   1.  ""            
   2. "Description" (Gene Symbol)
   3. "Name"       (Gene ID)
