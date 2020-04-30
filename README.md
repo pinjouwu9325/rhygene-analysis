@@ -3,7 +3,10 @@
 Last update: 2020-04-30
 
 ## Workflow
-<img align="center" src="https://github.com/pinjouwu9325/rhygene-analysis/blob/master/workflow.png">
+
+<p align="center">
+  <img src="https://github.com/pinjouwu9325/rhygene-analysis/blob/master/workflow.png">
+</p>
 
 ## Tools: CYCLOPS
 CYCLOPS reveals human transcriptional rhythms Ron C. Anafi, Lauren J. Francey, John B. Hogenesch, Junhyong Kim Proceedings of the National Academy of Sciences May 2017, 114 (20) 5312-5317; DOI: 10.1073/pnas.1619320114
